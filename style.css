@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+background-color:yellowgreen
+}
+
+#jogos {
+    background-color: chocolate;
+}
+#Series {
+    background-color:slateblue;
+}
+#hobbys {
+    background-color: dodgerblue;
+}
